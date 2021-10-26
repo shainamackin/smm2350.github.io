@@ -16,6 +16,6 @@ I can make an extra page on my site and link to that. Here's my [about](about.ht
 
 ## Here's Ted
 
-My cat's name is Ted. He likes to be on the internet. Here he is: 
+My dog's name is Ted. He likes to be on the internet. Here he is: 
 
-<img src="images/ted.jpg" style="width:75%"> 
+<img src="images/ted.jpeg" style="width:75%"> 
