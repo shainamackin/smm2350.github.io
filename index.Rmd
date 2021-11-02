@@ -7,7 +7,7 @@ output:
     theme: cerulean
 ---
 
-# This is Jeff's awesome website
+# This is Shaina's awesome website
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
@@ -15,17 +15,7 @@ output:
 
 
 
-
-
-
-
-
-
-
-
-
-
-I can link to useful things like [google](https:://www.google.com) and [p8155](https://www.p8105.com)
+I can link to useful things like [google](https:://www.google.com) and [p8105](https://www.p8105.com)
 
 I can make an extra page on my site and link to that. Here's my [about](about.html) page. 
 
