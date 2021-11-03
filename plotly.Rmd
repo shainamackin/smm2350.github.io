@@ -1,5 +1,5 @@
 ---
-title: "Plotly and fleshdashboard"
+title: "Plotly and flexdashboard"
 output: 
   html_document:
     toc: true
