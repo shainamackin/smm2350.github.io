@@ -56,3 +56,14 @@ nyc_airbnb %>%
     y = ~ price, color = ~neighbourhood, type = "box", colors = "viridis")
 ```
 
+## Plotly barchart
+
+```{r}
+nyc_airbnb %>% 
+  count(neighbourhood) %>% 
+  mutate(neighbourhood = fct_reorder(neighbourhood, n)) %>% 
+  plot_ly(x = ~neighbourhood, y = ~n, color = ~neighbourhood, type = "bar", colors = "viridis")
+```
+
+
+
