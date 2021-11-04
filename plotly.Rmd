@@ -75,7 +75,6 @@ gg_lat_long =
   coord_cartesian()
 
 ggplotly(gg_lat_long)
-
 ```
 
 
