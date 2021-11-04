@@ -33,7 +33,7 @@ nyc_airbnb =
   drop_na(stars)
 ```
 
-## Make a scatterplot
+## Plotly scatterplot
 
 ```{r}
 nyc_airbnb %>%
